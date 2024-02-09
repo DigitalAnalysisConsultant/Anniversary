@@ -1,9 +1,9 @@
 ## Mobile application Privacy Policy: Anniversary
-Last updated: February 08, 2024
+Last updated: February 09, 2024
 
 Thank you for your interest in mobile Anniversary management app for Android!
 
-This privacy policy governs your use of the software application “Anniversary” for Android™, thereafter referred to as “Application”.
+This privacy policy governs your use of the software application “Anniversary” for Android™, thereafter referred to as “Application”. The Application was developed by Daniel Kuhl.
 
 The Application allows you to create personalized and customizable reminders of anniversaries and holidays.
 
